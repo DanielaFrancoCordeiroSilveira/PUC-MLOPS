@@ -1,4 +1,4 @@
-name: puc-lectures-environment
+name: puc-mlops-environment
 dependencies:
   - python=3.9
   - pip
